@@ -3,7 +3,7 @@ The proposed CAP model consists of three core modules:attentive text-to-vision s
 which imitates the ability of human-beings for historical and contextual memory learning. Then, the driver attention guided accident prediction module predicts the beginning time of road collision and reconstructs the driver attention map simultaneously. Exhaustive experiments shows that the proposed method can obtain larger Time-to-Accident (TTA) than other state-of-the-arts.
 ![image](https://raw.githubusercontent.com/JWFanggit/LOTVS-CAP/main/model.png)
 # Testing
-Min-Test(DADA-2000-TEST):Download the best model [Here](https://pan.baidu.com/s/1tgXcaEaWQdgmoB7eubuZfA)(Extraction code：i8mg
+Min-Test(DADA-2000-TEST):Download the best model [Here](https://pan.baidu.com/s/1tgXcaEaWQdgmoB7eubuZfA)(Extraction code：i8mg)
 
 Full-Test(CAP-DATA-TEST):Download the best model [Here](https://pan.baidu.com/s/13iFDdi_aInqQBFOJHOXl8w)(Extraction code:keh4)
 # Dataset download:
