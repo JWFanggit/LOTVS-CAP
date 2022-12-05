@@ -5,12 +5,25 @@ In addition, we also propose a new model to fulfill a Cognitive Accident Predict
 
 
 ![image](https://github.com/JWFanggit/LOTVS-CAP/blob/main/model.png)
+
+
+CAP-DATA contains two parts: one is the DADA-2000 (can be downloaded [here](https://pan.baidu.com/s/1oxoQKYIaNCkLCxVCrOwgHw?pwd=ahyz)(Extraction code:ahyz)) which contains the driver attention for each frame and the text description, and another part with 9727 dashcam videos and text description (can be downloaded [here](https://pan.baidu.com/s/1QjrTiBEVLgwBPnGkBOKaZg?pwd=pcz5 )(Extraction code:pcz5)). 
+
+In this work, we provide two cases of training and testing evalution: MINI-Train-Test and FULL-Train-Test. The training and testing set of MINI-Train-Test is the same as the work [2].
+
+# Training
+MINI-Train: Download the training sample configuration [Here](https://pan.baidu.com/s/1tgXcaEaWQdgmoB7eubuZfA)(Extraction code:i8mg)
+
+FULL-Train(CAP-DATA-Train):Download the training sample configuration [Here](https://pan.baidu.com/s/13iFDdi_aInqQBFOJHOXl8w)(Extraction code:keh4)
+
+
+
 # Testing
-Min-Test(DADA-2000-TEST):Download the best model [Here](https://pan.baidu.com/s/1tgXcaEaWQdgmoB7eubuZfA)(Extraction code:i8mg)
+MINI-Test(DADA-2000-TEST):Download the inference model on the MINI-Test evaluation [Here](https://pan.baidu.com/s/1tgXcaEaWQdgmoB7eubuZfA)(Extraction code:i8mg)
 
-Full-Test(CAP-DATA-TEST):Download the best model [Here](https://pan.baidu.com/s/13iFDdi_aInqQBFOJHOXl8w)(Extraction code:keh4)
+FULL-Test(CAP-DATA-TEST):Download the inference model on the FULL-Test evaluation [Here](https://pan.baidu.com/s/13iFDdi_aInqQBFOJHOXl8w)(Extraction code:keh4)
 
-# Dataset download:
-We are worm-hearted to release this benchmark here, and sincerely invite to use and share it. Our CAP-DATA can be downloaded from （）This is the dataset that we re-uploaded after sorting out. At the same time, the complete DADA-2000 dataset can be download from（）.The DADA-Small dataset you can follow  the [work](https://github.com/Cogito2012/DRIVE.git)@inproceedings{BaoICCV2021DRIVE, author = "Bao, Wentao and Yu, Qi and Kong, Yu", title = "Deep Reinforced Accident Anticipation with Visual Explanation",booktitle = "International Conference on Computer Vision (ICCV)",year = "2021"}
+
+[2] Wentao Bao, Qi Yu, Yu Kong: DRIVE: Deep Reinforced Accident Anticipation with Visual Explanation. ICCV 2021: 7599-7608
 
 Note: CAP-DATA benchmark can only be utilized for research. If you are interested in this work and the benchmark, please cite the work with following bibtex.
