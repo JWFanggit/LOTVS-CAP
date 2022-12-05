@@ -12,6 +12,9 @@ CAP-DATA contains two parts: one is the DADA-2000 (can be downloaded [here](http
 In this work, we provide two cases of training and testing evalution: MINI-Train-Test and FULL-Train-Test. The training and testing set of MINI-Train-Test is the same as the work [2].
 
 # Training
+Implementation details:
+The code is implemented by Python 3.9 with the Pytorch platform. 
+
 MINI-Train: Download the training sample configuration [Here](https://pan.baidu.com/s/1tgXcaEaWQdgmoB7eubuZfA)(Extraction code:i8mg)
 
 FULL-Train(CAP-DATA-Train):Download the training sample configuration [Here](https://pan.baidu.com/s/13iFDdi_aInqQBFOJHOXl8w)(Extraction code:keh4)
@@ -19,6 +22,9 @@ FULL-Train(CAP-DATA-Train):Download the training sample configuration [Here](htt
 
 
 # Testing
+Implementation details:
+
+
 MINI-Test(DADA-2000-TEST):Download the inference model on the MINI-Test evaluation [Here](https://pan.baidu.com/s/1tgXcaEaWQdgmoB7eubuZfA)(Extraction code:i8mg)
 
 FULL-Test(CAP-DATA-TEST):Download the inference model on the FULL-Test evaluation [Here](https://pan.baidu.com/s/13iFDdi_aInqQBFOJHOXl8w)(Extraction code:keh4)
