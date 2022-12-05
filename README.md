@@ -15,10 +15,9 @@ In this work, we provide two cases of training and testing evalution: MINI-Train
 Implementation details:
 The code is implemented by Python 3.9 with the Pytorch platform. 
 
-MINI-Train: Download the training sample configuration [Here](https://pan.baidu.com/s/1tgXcaEaWQdgmoB7eubuZfA)(Extraction code:i8mg)
+MINI-Train: Download the training sample configuration [Here](https://pan.baidu.com/s/1SOLOM01OMlZSz5a7s2khHA )(Extraction code:ka5z)
 
-FULL-Train(CAP-DATA-Train):Download the training sample configuration [Here](https://pan.baidu.com/s/13iFDdi_aInqQBFOJHOXl8w)(Extraction code:keh4)
-
+FULL-Train(CAP-DATA-Train):Download the training sample configuration [Here](https://pan.baidu.com/s/1Ls_qZZU_IMl6D8Muu7cMVg )(Extraction code:0zya)
 
 
 # Testing
