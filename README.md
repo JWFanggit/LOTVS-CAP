@@ -20,7 +20,7 @@ MINI-Train: Download the training sample configuration [Here](https://pan.baidu.
 a.Download the [DADA-1000](https://pan.baidu.com/share/init?surl=RfNjeW0Rjj6R4N7beSTYrA)(Extraction code:9pab)
 
 b.Make data structure
->[...rootpath]
+>[rootpath]
 >>[training]
 
 >>>[rgb_videos]
@@ -28,7 +28,7 @@ b.Make data structure
 >>>[focus_videos]
 
 >>>[training.txt]
-
+c.```run Train.py```
 FULL-Train(CAP-DATA-Train):Download the training sample configuration [Here](https://pan.baidu.com/s/1Ls_qZZU_IMl6D8Muu7cMVg )(Extraction code:0zya)
 
 
