@@ -28,9 +28,16 @@ b.Make data structure
 >>>[focus_videos]
 
 >>>[training.txt]
-c.```run Train.py```
+
+c.```Run Train.py```
+
 FULL-Train(CAP-DATA-Train):Download the training sample configuration [Here](https://pan.baidu.com/s/1Ls_qZZU_IMl6D8Muu7cMVg )(Extraction code:0zya)
 
+a.Download the DADA-2000 (can be downloaded [here](https://pan.baidu.com/s/1oxoQKYIaNCkLCxVCrOwgHw?pwd=ahyz)(Extraction code:ahyz))
+
+b.Make data sturcture same as MINI-Train
+
+c.```Run Train.py```
 
 # Testing
 Implementation details:
@@ -38,7 +45,25 @@ Implementation details:
 
 MINI-Test(DADA-2000-TEST):Download the inference model on the MINI-Test evaluation [Here](https://pan.baidu.com/s/1tgXcaEaWQdgmoB7eubuZfA)(Extraction code:i8mg)
 
+a.Use the DADA-1000 dataset.Make the inference model path place the ckpt_path at ```Test.py```
+
+b.Make data structure
+>[rootpath]
+>>[testing]
+
+>>>[rgb_videos]
+
+>>>[testing.txt]
+
+c.```Run Test.py```
+
 FULL-Test(CAP-DATA-TEST):Download the inference model on the FULL-Test evaluation [Here](https://pan.baidu.com/s/13iFDdi_aInqQBFOJHOXl8w)(Extraction code:keh4)
+a.Use the CAP-DATA dataset.Make the inference model path place the ckpt_path at ```Test.py```
+
+b.Make data structure same as MINI-Test.You can choose any of the txt documents in training sample configuration(FULL-Train-test) to replace the testing.txt to test
+
+c.```Run Test.py```
+
 
 # Reference
 
