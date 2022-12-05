@@ -5,5 +5,6 @@ which imitates the ability of human-beings for historical and contextual memory 
 # Testing
 Download the best model here：save_model_10.pth
 # Dataset download:
-We are worm-hearted to release this benchmark here, and sincerely invite to use and share it. Our CAP-DATA can be downloaded from （）This is the dataset that we re-uploaded after sorting out. At the same time, the complete DADA-2000 dataset can be download from（）.The DADA-Small dataset you can follow  the [work](https://github.com/Cogito2012/DRIVE.git) 
+We are worm-hearted to release this benchmark here, and sincerely invite to use and share it. Our CAP-DATA can be downloaded from （）This is the dataset that we re-uploaded after sorting out. At the same time, the complete DADA-2000 dataset can be download from（）.The DADA-Small dataset you can follow  the [work](https://github.com/Cogito2012/DRIVE.git) .
+
 Note: CAP-DATA benchmark can only be utilized for research. If you are interested in this work and the benchmark, please cite the work with following bibtex.
