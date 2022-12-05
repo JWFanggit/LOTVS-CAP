@@ -4,7 +4,7 @@ We are warmly to release a new benchmark on Accident Prediction in dashcam video
 In addition, we also propose a new model to fulfill a Cognitive Accident Prediction (CAP), which explores the human cognition clues to assist accident prediction in driving videos. Particularly, we explore the text description before accident and the driver attention in driving situations to boost the explainability of accident prediction model, which has the apparent semantic guidance for the object to be involved in accident and helps to find the crashing object efficiently. Extensive experiments shows that the proposed method can obtain larger Time-to-Accident (TTA) than other state-of-the-arts.
 
 
-![image](https://github.com/JWFanggit/LOTVS-CAP/blob/main/model.png)
+![image](https://github.com/JWFanggit/LOTVS-CAP/blob/main/CAP-DATA.png)
 
 
 CAP-DATA contains two parts: one is the DADA-2000 (can be downloaded [here](https://pan.baidu.com/s/1oxoQKYIaNCkLCxVCrOwgHw?pwd=ahyz)(Extraction code:ahyz)) which contains the driver attention for each frame and the text description, and another part with 9727 dashcam videos and text description (can be downloaded [here](https://pan.baidu.com/s/1QjrTiBEVLgwBPnGkBOKaZg?pwd=pcz5 )(Extraction code:pcz5)). 
