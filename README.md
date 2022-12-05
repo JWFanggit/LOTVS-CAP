@@ -23,7 +23,10 @@ MINI-Test(DADA-2000-TEST):Download the inference model on the MINI-Test evaluati
 
 FULL-Test(CAP-DATA-TEST):Download the inference model on the FULL-Test evaluation [Here](https://pan.baidu.com/s/13iFDdi_aInqQBFOJHOXl8w)(Extraction code:keh4)
 
+# Reference
+
+Note: CAP-DATA benchmark can only be utilized for research. If you are interested in this work and the benchmark, please cite the work with following bibtex.
 
 [2] Wentao Bao, Qi Yu, Yu Kong: DRIVE: Deep Reinforced Accident Anticipation with Visual Explanation. ICCV 2021: 7599-7608
 
-Note: CAP-DATA benchmark can only be utilized for research. If you are interested in this work and the benchmark, please cite the work with following bibtex.
+
