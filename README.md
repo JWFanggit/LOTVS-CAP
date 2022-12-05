@@ -17,6 +17,18 @@ The code is implemented by Python 3.9 with the Pytorch platform.
 
 MINI-Train: Download the training sample configuration [Here](https://pan.baidu.com/s/1SOLOM01OMlZSz5a7s2khHA )(Extraction code:ka5z)
 
+a.Download the [DADA-1000](https://pan.baidu.com/share/init?surl=RfNjeW0Rjj6R4N7beSTYrA)(Extraction code:9pab)
+
+b.Make data structure
+>[...rootpath]
+>>[training]
+
+>>>[rgb_videos]
+
+>>>[focus_videos]
+
+>>>[training.txt]
+
 FULL-Train(CAP-DATA-Train):Download the training sample configuration [Here](https://pan.baidu.com/s/1Ls_qZZU_IMl6D8Muu7cMVg )(Extraction code:0zya)
 
 
