@@ -62,6 +62,7 @@ b.Make data structure
 c.```Run Test.py```
 
 FULL-Test(CAP-DATA-TEST):Download the inference model on the FULL-Test evaluation [Here](https://pan.baidu.com/s/13iFDdi_aInqQBFOJHOXl8w)(Extraction code:keh4)
+
 a.Use the CAP-DATA dataset.Make the inference model path place the ckpt_path at ```Test.py```
 
 b.Make data structure same as MINI-Test.You can choose any of the txt documents in training sample configuration(FULL-Train-test) to replace the testing.txt to test
