@@ -16,7 +16,7 @@ In this work, we provide two cases of training and testing evalution: MINI-Train
 Implementation details:
 The code is implemented by Python 3.9 with the Pytorch platform. 
 
-Download the [bert-base-uncased-pytorch_model](https://pan.baidu.com/s/1vnPIOLn7s_4MZyISjP5a0A)(Extraction code：rd4y)
+We use the bert model to encode the text.Download the [bert-base-uncased-pytorch_model](https://pan.baidu.com/s/1vnPIOLn7s_4MZyISjP5a0A)(Extraction code：rd4y)
 
 MINI-Train: Download the training sample configuration [Here](https://pan.baidu.com/s/1SOLOM01OMlZSz5a7s2khHA )(Extraction code:ka5z)
    
