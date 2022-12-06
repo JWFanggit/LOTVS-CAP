@@ -56,6 +56,9 @@ b.Make data structure
 
 >>>[testing.txt]
 
+>>>[testing-text.txt]
+
+
 c.```Run Test.py```
 
 FULL-Test(CAP-DATA-TEST):Download the inference model on the FULL-Test evaluation [Here](https://pan.baidu.com/s/13iFDdi_aInqQBFOJHOXl8w)(Extraction code:keh4)
