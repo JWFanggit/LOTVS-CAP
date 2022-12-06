@@ -6,11 +6,12 @@ In addition, we also propose a new model to fulfill a Cognitive Accident Predict
 
 ![image](https://github.com/JWFanggit/LOTVS-CAP/blob/main/CAP-DATA.png)
 
-
+# Download Benchmark
 CAP-DATA contains two parts: one is the DADA-2000 (can be downloaded [here](https://pan.baidu.com/s/1oxoQKYIaNCkLCxVCrOwgHw?pwd=ahyz)(Extraction code:ahyz)) which contains the driver attention for each frame and the text description, and another part with 9727 dashcam videos and text description (can be downloaded [here](https://pan.baidu.com/s/1QjrTiBEVLgwBPnGkBOKaZg?pwd=pcz5 )(Extraction code:pcz5)). 
 
 In this work, we provide two cases of training and testing evalution: MINI-Train-Test and FULL-Train-Test. The training and testing set of MINI-Train-Test is the same as the work [2].
 
+# Implementation Details
 # Training
 Implementation details:
 The code is implemented by Python 3.9 with the Pytorch platform. 
