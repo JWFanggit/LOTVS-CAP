@@ -34,7 +34,7 @@ b.Make data structure
 
 c.```Run Train.py```
 
-FULL-Train(CAP-DATA-Train):Download the training sample configuration [Here](https://pan.baidu.com/s/1Ls_qZZU_IMl6D8Muu7cMVg )(Extraction code:0zya)
+FULL-Train:Download the training sample configuration [Here](https://pan.baidu.com/s/1Ls_qZZU_IMl6D8Muu7cMVg )(Extraction code:0zya)
                   
 a.Download the DADA-2000 (can be downloaded [here](https://pan.baidu.com/s/1oxoQKYIaNCkLCxVCrOwgHw?pwd=ahyz)(Extraction code:ahyz))
 
