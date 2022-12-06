@@ -16,10 +16,11 @@ In this work, we provide two cases of training and testing evalution: MINI-Train
 Implementation details:
 The code is implemented by Python 3.9 with the Pytorch platform. 
 
-MINI-Train: Download the training sample configuration [Here](https://pan.baidu.com/s/1SOLOM01OMlZSz5a7s2khHA )(Extraction code:ka5z)
+Download the [bert-base-uncased-pytorch_model](https://pan.baidu.com/s/1vnPIOLn7s_4MZyISjP5a0A)(Extraction code：rd4y)
 
+MINI-Train: Download the training sample configuration [Here](https://pan.baidu.com/s/1SOLOM01OMlZSz5a7s2khHA )(Extraction code:ka5z)
+   
 a.Download the [DADA-1000](https://pan.baidu.com/share/init?surl=RfNjeW0Rjj6R4N7beSTYrA)(Extraction code:9pab)
-  Download the pre-train
 
 b.Make data structure
 >[rootpath]
@@ -34,7 +35,7 @@ b.Make data structure
 c.```Run Train.py```
 
 FULL-Train(CAP-DATA-Train):Download the training sample configuration [Here](https://pan.baidu.com/s/1Ls_qZZU_IMl6D8Muu7cMVg )(Extraction code:0zya)
-
+                  
 a.Download the DADA-2000 (can be downloaded [here](https://pan.baidu.com/s/1oxoQKYIaNCkLCxVCrOwgHw?pwd=ahyz)(Extraction code:ahyz))
 
 b.Make data sturcture same as MINI-Train
@@ -43,7 +44,6 @@ c.```Run Train.py```
 
 # Testing
 Implementation details:
-
 
 MINI-Test(DADA-2000-TEST):Download the inference model on the MINI-Test evaluation [Here](https://pan.baidu.com/s/1tgXcaEaWQdgmoB7eubuZfA)(Extraction code:i8mg)
 
