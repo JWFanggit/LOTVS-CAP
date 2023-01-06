@@ -69,6 +69,7 @@ a.Use the CAP-DATA dataset.Make the inference model path place the ckpt_path at 
 b.Make data structure same as MINI-Test.You can choose any of the txt documents in training sample configuration(FULL-Train-test) to replace the testing.txt to test
 
 c.```Run Test.py```
+
 If you use this dataset and the code, please cite the following bibtex format.
 ```
 @article{DBLP:journals/corr/abs-2212-09381,
