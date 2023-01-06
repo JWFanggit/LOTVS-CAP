@@ -70,7 +70,7 @@ b.Make data structure same as MINI-Test.You can choose any of the txt documents 
 
 c.```Run Test.py```
 If you use this dataset and the code, please cite the following bibtex format.
-
+```
 @article{DBLP:journals/corr/abs-2212-09381,
   author    = {Jianwu Fang and
                Lei{-}Lei Li and
@@ -84,7 +84,7 @@ If you use this dataset and the code, please cite the following bibtex format.
   volume    = {abs/2212.09381},
   year      = {2022},
 }
-
+```
 # Reference
 
 Note: CAP-DATA benchmark can only be utilized for research. If you are interested in this work and the benchmark, please cite the work with following bibtex.
