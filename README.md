@@ -45,7 +45,7 @@ c.```Run Train.py```
 # Testing
 Implementation details:
 
-MINI-Test(DADA-2000-TEST):Download the inference model on the MINI-Test evaluation [Here](https://pan.baidu.com/s/1tgXcaEaWQdgmoB7eubuZfA)(Extraction code:i8mg)
+MINI-Test(DADA-2000-TEST):Download the inference model on the MINI-Test evaluation [Here](https://pan.baidu.com/s/1vcdTEn1g0EdWtastLsU8QA)(Extraction code:qe4w)
 
 a.Use the DADA-1000 dataset.Make the inference model path place the ckpt_path at ```Test.py```
 
