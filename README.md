@@ -7,7 +7,7 @@ In addition, we also propose a new model to fulfill a Cognitive Accident Predict
 ![image](https://github.com/JWFanggit/LOTVS-CAP/blob/main/CAP-DATA.png)
 
 # Download Benchmark
-we will publish our benchmark soon.
+we will publish our benchmark (CAP-DATA) soon.
 
 # Implementation Details
 # Training
