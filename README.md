@@ -18,7 +18,7 @@ We use the bert model to encode the text.Download the [bert-base-uncased-pytorch
 
 MINI-Train: Download the training sample configuration [Here](https://pan.baidu.com/s/1SOLOM01OMlZSz5a7s2khHA )(Extraction code:ka5z)
    
-a.Download the [DADA-1000](https://pan.baidu.com/s/1DrWdNm3u88naB-obGGrYDg) Extraction code：rtg4).
+a.Download the [DADA-1000](https://pan.baidu.com/s/1bLQb3Lz5atz6sgBz-VWNJQ) Extraction code：：472b).
 
 b.Make data structure
 >[rootpath]
