@@ -73,7 +73,6 @@ c.```Run Test.py```
 
 # News
 We modified the Driver Attention Map Reconstruction module and discussed text bias using Mini-Train-Test as a benchmark！ The paper Cognitive Traﬀic Accident Anticipation was accepted by IEEE Intelligent Transportation Systems Magazine (ITSM), 2024.
-
 [CAP(V2)](https://github.com/JWFanggit/LOTVS-CAAD)
 
 
