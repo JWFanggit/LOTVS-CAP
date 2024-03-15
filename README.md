@@ -8,7 +8,7 @@ In addition, we also propose a new model to fulfill a Cognitive Accident Predict
 
 # Download Benchmark
 You can Log in to our [project homepage](www.lotvsmmau.net) to download the benchmark.
-Note that the CAP dataset has been refined and renamed the Multi-Modal Accident video Understanding (MM-AU) dataset！
+Note that the CAP-DATA dataset has been refined and renamed the Multi-Modal Accident video Understanding (MM-AU) dataset！
 
 # Implementation Details
 # Training
