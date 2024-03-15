@@ -7,7 +7,7 @@ In addition, we also propose a new model to fulfill a Cognitive Accident Predict
 ![image](https://github.com/JWFanggit/LOTVS-CAP/blob/main/CAP-DATA.png)
 
 # Download Benchmark
-You can Log in to our [project homepage] (www.lotvsmmau.net) to download the benchmark.
+You can Log in to our [project homepage](www.lotvsmmau.net) to download the benchmark.
 Note that the CAP dataset has been refined and renamed the Multi-Modal Accident video Understanding (MM-AU) dataset！
 
 # Implementation Details
@@ -68,6 +68,16 @@ a.Use the CAP-DATA dataset.Make the inference model path place the ckpt_path at 
 b.Make data structure same as MINI-Test.You can choose any of the txt documents in training sample configuration(FULL-Train-test) to replace the testing.txt to test
 
 c.```Run Test.py```
+
+
+
+# News
+Our paper Cognitive Traﬀic Accident Anticipation was accepted by IEEE Intelligent Transportation Systems Magazine (ITSM), 2024.
+We modified the Driver Attention Map Reconstruction module and discussed text bias using Mini-Train-Test as a benchmark！ 
+[CAP(V2)](www)
+
+
+
 
 If you use this dataset and the code, please cite the following bibtex format.
 ```
