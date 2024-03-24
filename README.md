@@ -7,7 +7,7 @@ In addition, we also propose a new model to fulfill a Cognitive Accident Predict
 ![image](https://github.com/JWFanggit/LOTVS-CAP/blob/main/CAP-DATA.png)
 
 # Download Benchmark
-You can Log in to our [project homepage](https://www.lotvsmmau.net) to download the benchmark.
+You can Log in to our [project homepage](<a>www.lotvsmmau.net</a>) to download the benchmark.
 Note that the CAP-DATA dataset has been refined and renamed the Multi-Modal Accident video Understanding (MM-AU) dataset！
 
 # Implementation Details
